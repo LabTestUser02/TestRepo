@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello under world"
+echo "Hello world"
